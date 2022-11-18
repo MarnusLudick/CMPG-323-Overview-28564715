@@ -4,20 +4,20 @@
 # Repositories created:
  CMPG-323-Overview-28564715 (Project 1) That is the main repoistory where Projects 2-5 are linked to
      <br />
- <br />Repository for Project 2 (To be updated shortly):
+ <br />Repository for Project 2 - API Development(To be updated shortly):
+     <br />https://github.com/MarnusLudick/CMPG323-Project2-28564715.git
      <br />
-     <br />
- <br />Repository for Project 3 (To be updated shortly):
+ <br />Repository for Project 3 - Standards and Patterns(To be updated shortly):
      <br />https://github.com/MarnusLudick/CMPG323-Project3-28564715.git
      <br />
- <br />Repository for Project 4 - API Development:
+ <br />Repository for Project 4 - Testing and RPA:
      <br />https://github.com/MarnusLudick/CMPG323-Project4-28564715.git
      <br />
  <br />Repository for Project 5:
      <br />
      <br />
  
- About Project 2 & 3: Note that Project 2 & 3 will be completed and their repositories will be updated shortly.
+ About Project 2 & 3: Note that Project 2 & 3 is past due date, but will still be completed and their repositories will be updated shortly.
 
 
 # Below is a Link that depicts the integration of the repositories
