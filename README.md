@@ -5,10 +5,10 @@
  CMPG-323-Overview-28564715 (Project 1) That is the main repoistory where Projects 2-5 are linked to
      <br />
  <br />Repository for Project 2 (To be updated shortly):
-     <br />https://github.com/MarnusLudick/CMPG323-Project2-28564715.git
+     <br />
      <br />
  <br />Repository for Project 3 (To be updated shortly):
-     <br />
+     <br />https://github.com/MarnusLudick/CMPG323-Project3-28564715.git
      <br />
  <br />Repository for Project 4 - API Development:
      <br />https://github.com/MarnusLudick/CMPG323-Project4-28564715.git
