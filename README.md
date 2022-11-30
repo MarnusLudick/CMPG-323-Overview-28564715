@@ -17,7 +17,7 @@
      <br />https://github.com/MarnusLudick/CMPG323-Project5-28564715.git
      <br />
  
- About Project 2 & 3: Note that Project 2 & 3 is past due date, but will still be completed and their repositories will be updated shortly.
+ **About Project 2 & 3:** Note that Project 2 & 3 is past due date, where project 2 is completed and to be updated (still containing a few bugs that will be fixed later on), and project 3 to be completed shortly.
 
 
 # Below is a Link that depicts the integration of the repositories
